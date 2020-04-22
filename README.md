@@ -28,7 +28,6 @@ alt="GoFinances" width="250"/>
 <img src="frontend/src/assets/web/dashboard.svg" alt="Dashboard"/>
 
 <br />
-<br />
 
 <img src="frontend/src/assets/web/import.svg" alt="Import CSV"/>
 
